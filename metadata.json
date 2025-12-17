@@ -1,0 +1,5 @@
+{
+  "name": "Matchstick Master",
+  "description": "An interactive puzzle game where you move matchsticks to solve mathematical equations.",
+  "requestFramePermissions": []
+}
